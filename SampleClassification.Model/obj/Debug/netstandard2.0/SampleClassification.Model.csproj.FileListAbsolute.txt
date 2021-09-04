@@ -1,0 +1,11 @@
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/MLModel.zip
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.deps.json
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.dll
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.pdb
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.csproj.AssemblyReference.cache
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.AssemblyInfoInputs.cache
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.AssemblyInfo.cs
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.csproj.CoreCompileInputs.cache
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.dll
+/home/marshal/Git/FirstMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.pdb
